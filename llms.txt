@@ -1,0 +1,62 @@
+# La Coruna
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://la-coruna.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Anclajes](https://la-coruna.laboratoriomecanicadesuelos.org/anclajes/)
+- [Asentamiento Diferencial](https://la-coruna.laboratoriomecanicadesuelos.org/asentamiento-diferencial/)
+- [Asentamientos](https://la-coruna.laboratoriomecanicadesuelos.org/asentamientos/)
+- [Calicatas Exploratorias](https://la-coruna.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Capacidad De Carga](https://la-coruna.laboratoriomecanicadesuelos.org/capacidad-de-carga/)
+- [Cbr Vial](https://la-coruna.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://la-coruna.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Sismicas](https://la-coruna.laboratoriomecanicadesuelos.org/cimentaciones-sismicas/)
+- [Cimentaciones Superficiales](https://la-coruna.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://la-coruna.laboratoriomecanicadesuelos.org/clasificacion-suelos/)
+- [Compactacion Dinamica](https://la-coruna.laboratoriomecanicadesuelos.org/compactacion-dinamica/)
+- [Consolidacion](https://la-coruna.laboratoriomecanicadesuelos.org/consolidacion/)
+- [Densidad Cono Arena](https://la-coruna.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Deslizamientos](https://la-coruna.laboratoriomecanicadesuelos.org/deslizamientos/)
+- [Dilatometro](https://la-coruna.laboratoriomecanicadesuelos.org/dilatometro/)
+- [Drenaje Geotecnico](https://la-coruna.laboratoriomecanicadesuelos.org/drenaje-geotecnico/)
+- [Drenaje Vial](https://la-coruna.laboratoriomecanicadesuelos.org/drenaje-vial/)
+- [Ensayo Cpt](https://la-coruna.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayo Spt](https://la-coruna.laboratoriomecanicadesuelos.org/ensayo-spt/)
+- [Ensayo Triaxial](https://la-coruna.laboratoriomecanicadesuelos.org/ensayo-triaxial/)
+- [Ensayos In Situ](https://la-coruna.laboratoriomecanicadesuelos.org/ensayos-in-situ/)
+- [Estabilidad Taludes](https://la-coruna.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Estabilizacion Cal Cemento](https://la-coruna.laboratoriomecanicadesuelos.org/estabilizacion-cal-cemento/)
+- [Estabilizacion Carreteras](https://la-coruna.laboratoriomecanicadesuelos.org/estabilizacion-carreteras/)
+- [Estabilizacion Taludes](https://la-coruna.laboratoriomecanicadesuelos.org/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://la-coruna.laboratoriomecanicadesuelos.org/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://la-coruna.laboratoriomecanicadesuelos.org/evaluacion-pavimentos/)
+- [Excavaciones Subterraneas](https://la-coruna.laboratoriomecanicadesuelos.org/excavaciones-subterraneas/)
+- [Exploracion](https://la-coruna.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geoceldas](https://la-coruna.laboratoriomecanicadesuelos.org/geoceldas/)
+- [Geofisica](https://la-coruna.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geomembranas](https://la-coruna.laboratoriomecanicadesuelos.org/geomembranas/)
+- [Georradar Gpr](https://la-coruna.laboratoriomecanicadesuelos.org/georradar-gpr/)
+- [Geotecnia Vial](https://la-coruna.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Geotextiles](https://la-coruna.laboratoriomecanicadesuelos.org/geotextiles/)
+- [Granulometria](https://la-coruna.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://la-coruna.laboratoriomecanicadesuelos.org/grouting/)
+- [Instrumentacion Geotecnica](https://la-coruna.laboratoriomecanicadesuelos.org/instrumentacion-geotecnica/)
+- [Jet Grouting](https://la-coruna.laboratoriomecanicadesuelos.org/jet-grouting/)
+- [Laboratorio](https://la-coruna.laboratoriomecanicadesuelos.org/laboratorio/)
+- [Licuefaccion](https://la-coruna.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Losa De Cimentacion](https://la-coruna.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Masw Vs30](https://la-coruna.laboratoriomecanicadesuelos.org/masw-vs30/)
+- [Mejoramiento](https://la-coruna.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Micropilotes](https://la-coruna.laboratoriomecanicadesuelos.org/micropilotes/)
+- [Microtremores Hvsr](https://la-coruna.laboratoriomecanicadesuelos.org/microtremores-hvsr/)
+- [Monitoreo Excavaciones](https://la-coruna.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muestreo Inalterado](https://la-coruna.laboratoriomecanicadesuelos.org/muestreo-inalterado/)
+- [Muros Contencion](https://la-coruna.laboratoriomecanicadesuelos.org/muros-contencion/)
+
+## Contact
+- Website: https://la-coruna.laboratoriomecanicadesuelos.org/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
