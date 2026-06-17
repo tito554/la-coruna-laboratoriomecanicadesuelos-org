@@ -2,341 +2,409 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/aislacion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/anclajes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/asentamiento-diferencial/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/asentamientos/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/calicatas-exploratorias/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/capacidad-de-carga/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/cbr-vial/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://la-coruna.laboratoriomecanicadesuelos.org/cimentaciones-sismicas/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://la-coruna.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/cimentaciones/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-coruna.laboratoriomecanicadesuelos.org/cimentaciones-sismicas/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-coruna.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/clasificacion-suelos/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/compactacion-dinamica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/consolidacion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/densidad-cono-arena/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/deslizamientos/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/dilatometro/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/drenaje-geotecnico/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/drenaje-vial/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/ensayo-cpt/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://la-coruna.laboratoriomecanicadesuelos.org/ensayo-spt/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/ensayo-triaxial/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/ensayos-in-situ/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/estabilidad-taludes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/estabilizacion-cal-cemento/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/estabilizacion-carreteras/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/estabilizacion-taludes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/estudio-mecanica-suelos/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/evaluacion-pavimentos/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/excavaciones-subterraneas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/exploracion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/geoceldas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/geofisica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/geomembranas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/georradar-gpr/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/geotecnia-vial/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/geotextiles/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/granulometria/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/grouting/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/instrumentacion-geotecnica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/jet-grouting/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/laboratorio/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/licuefaccion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/losa-de-cimentacion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/masw-vs30/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/mejoramiento/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/micropilotes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/microtremores-hvsr/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/muestreo-inalterado/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/muros-contencion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/muros-mse/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/muros-pantalla/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/permeabilidad-campo/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/pilotes-hincados/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/placa-de-carga/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/precarga-sobrecarga/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/rellenos-sanitarios/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/remediacion-suelos/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/resistividad-electrica-sev/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-coruna.laboratoriomecanicadesuelos.org/sondaje-spt/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/subrasante-vial/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/suelos-colapsibles/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/suelos-organicos/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/taludes-y-muros/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/veleta-campo/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://la-coruna.laboratoriomecanicadesuelos.org/vibrocompactacion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
